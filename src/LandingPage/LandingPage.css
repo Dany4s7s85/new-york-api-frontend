@@ -1,0 +1,15 @@
+.mainDiv {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.card {
+    border: 1px solid black;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #194775;
+    border-radius: 20px;
+    color: #CAD4DF
+}
